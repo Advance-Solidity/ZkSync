@@ -1,0 +1,24 @@
+{
+  "name": "zksync",
+  "version": "1.0.0",
+  "description": "Short for zero-knowledge (zk), zkSync is a network that offloads Ethereum's network traffic and relieves the mainnet of congestion and high transfer fees. Because zkSync's existence is so tied to Ethereum, it is often called a Layer 2 scalability solution, whereas Ethereum itself is a Layer 1 network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advance-Solidity/ZkSync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Advance-Solidity/ZkSync/issues"
+  },
+  "homepage": "https://github.com/Advance-Solidity/ZkSync#readme",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "zksync": "^0.13.1"
+  }
+}
